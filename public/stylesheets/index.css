@@ -1,0 +1,52 @@
+.img-thumbnail img{
+    width: 100%;
+}
+
+body{
+  font-family: 'Roboto Mono', monospace;
+}
+
+#logo{
+	font-size: 25px;
+}
+
+#nopads{
+    padding: 0;
+}
+
+#caption-padding{
+	padding: 5px;
+}
+
+#delete-button {
+	display: inline;
+}
+
+.button-colour{
+	color: red;
+}
+
+#edit-button {
+	display: inline;
+}
+
+#signedIn{
+	padding: 30px 60px 0 0;
+	color: white;
+}
+
+
+/*These below were in style tag in header.ejs*/
+.navbar {
+		margin-bottom: 50px; 
+	}
+			
+#inlineStyle {
+		width: 30%;
+		margin: 30px auto;
+	}
+			
+#header {
+		text-align: center;
+	}
+/*These above were in style tag in header.ejs*/
